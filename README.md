@@ -3,16 +3,8 @@
 ## Description
 This project is a Nike shoe Landing Page website built using ReactJS, Tailwind CSS, and Vite. It showcases various Nike shoe products, customer reviews, special offers, and services.
 
-## Features
-- Responsive design for seamless viewing on different devices
-- Hero section highlighting key features or promotions
-- Display of popular Nike shoe products
-- Highlight of super quality products
-- Services section to showcase available services
-- Special offers section for promotions or discounts
-- Customer reviews section for testimonials
-- Subscription option for users to stay updated
-- Footer section with navigation links and contact information
+## Credits (JAVASCRIPT MASTERY)
+- This project is just a replica which i coded by watching JAVASCRIPT MASTERY ( YT Tutorial ) So, just to be very sure, I understood the concept, tried to make changes. I will create further applications on the understanding of this project. THANK YOU!!
 
 ## Follow
 For support or inquiries, please contact me via:
